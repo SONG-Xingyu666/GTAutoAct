@@ -23,3 +23,8 @@ After downloading each dataset, use *`data_preparation.py`* to prepare the datas
 ```
 python data_preparation.py ${input_path} ${output_path}
 ```
+
+After generating datasets, make sure the dataset is named as "Kinectics400", and placed in the path: 
+```
+mmaction2/data/
+```
