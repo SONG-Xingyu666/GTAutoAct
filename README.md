@@ -11,6 +11,6 @@ For setting up MMAction, please follow the setup instructions available on its [
 For reference, the details of our experimental environments are outlined in Section B.1. of the appendix.
 
 ## Requirements
-'''
+```
 pip install -r requirements.txt
-'''
+```
