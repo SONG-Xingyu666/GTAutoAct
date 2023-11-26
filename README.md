@@ -10,7 +10,13 @@ We suggest utilizing MMAction, an open-source toolbox designed for video underst
 For setting up MMAction, please follow the setup instructions available on its ["official GitHub repository"](https://github.com/open-mmlab/mmaction2). 
 For reference, the details of our experimental environments are outlined in Section B.1. of the appendix.
 
-## Requirements
+## Download Requirements
 ```
 pip install -r requirements.txt
 ```
+
+## Data Preparation
+Regarding the Human3.6M dataset, please refer to ["H36M"](http://vision.imar.ro/human3.6m/description.php).
+Regarding the NTU RGB+D dataset, please refer to ["NTU RGB+D"](https://rose1.ntu.edu.sg/dataset/actionRecognition/).
+Regarding the H3WB dataset, please refer to ["H3HB"](https://github.com/wholebody3d/wholebody3d).
+After downloading each dataset, use *`data_preparation.py`* to prepare the datasets.
