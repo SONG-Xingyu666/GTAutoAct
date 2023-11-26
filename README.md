@@ -1,5 +1,5 @@
 # Evaluation for GTAutoAct
-The complete project code for GTAutoAct is accessible via an anonymous link for a private GitHub repository, which can be found here:["Project code repository"](https://anonymous.4open.science/r/GTAutoAct-4CB6/README.md).
+The complete project code for GTAutoAct is accessible via an anonymous link for a private GitHub repository, which can be found here: ["Project code repository"](https://anonymous.4open.science/r/GTAutoAct-4CB6/README.md).
 Due to the license agreements concerning the use of the Human3.6M, NTU RGB+D, and H3WB datasets, we are unable to distribute any datasets derived from these sources. 
 This restriction includes all H36M-based datasets such as H36M-Original, H36M-Single, H36M-Extracted, H36M-SingleExtracted, H36M-Original-Test, and H36M-Segment-Test, as well as any NTU-based datasets, including NTU-Original and NTU-Test.
 However, we offer the scripts needed to generate these datasets from the original sources, and these can be accessed and downloaded from the Project code repository as well.
@@ -63,7 +63,7 @@ Or run the test on supercomputer by:
 sh test_sc.sh
 ```
 
-HOPE U ENJOY!
+ENJOY!!!
 
 
 
