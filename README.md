@@ -20,3 +20,6 @@ Regarding the Human3.6M dataset, please refer to ["H36M"](http://vision.imar.ro/
 Regarding the NTU RGB+D dataset, please refer to ["NTU RGB+D"](https://rose1.ntu.edu.sg/dataset/actionRecognition/).
 Regarding the H3WB dataset, please refer to ["H3HB"](https://github.com/wholebody3d/wholebody3d).
 After downloading each dataset, use *`data_preparation.py`* to prepare the datasets.
+```
+python data_preparation.py ${input_path} ${output_path}
+```
