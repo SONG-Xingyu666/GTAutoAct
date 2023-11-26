@@ -40,10 +40,6 @@ Please place config files under your main MMAction project.
 
 ## Checkpoint
 To facilitate easy reproduction of our results, we have provided the trained checkpoints for each model corresponding to each dataset on our ["project repository"](https://anonymous.4open.science/r/GTAutoAct-4CB6/README.md). 
-Additionally, we have included several checkpoint files in the following path: 
-```
-testing_code/ckpt/
-```
 Please place ckpt files under your main MMAction project. 
 This allows for straightforward replication and analysis of our experimental findings.
 
