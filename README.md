@@ -1,5 +1,5 @@
 # GTAutoAct: An Automatic Datasets Generation Framework Based on Game Engine Redevelopment for Action Recognition
-![overall](/resources/overall.pdf)
+![overall](https://github.com/SONG-Xingyu666/cvpr24_GTAutoAct/blob/main/resources/overall.pdf)
 
 Current datasets for action recognition tasks face limitations stemming from traditional collection and generation methods, including the constrained range of action classes, absence of multi-viewpoint recordings, limited diversity, poor video quality, and labor-intensive manually collection. 
 To address these challenges, we introduce GTAutoAct, a innovative dataset generation framework leveraging game engine technology to facilitate advancements in action recognition. 
