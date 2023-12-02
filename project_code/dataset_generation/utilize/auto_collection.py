@@ -11,7 +11,7 @@ import random
 import os
 from mpl_toolkits.mplot3d import Axes3D 
 from PIL import ImageGrab
-from auto_recording import change_screen_to_game
+# from auto_recording import change_screen_to_game
 
 
 #############################################################################
@@ -29,6 +29,14 @@ play_animation_command = 'x'
 #############################################################################
 # BASIC FUNCTIONS
 #############################################################################
+
+def change_screen_to_game():
+    pyautogui.keyDown('alt')
+    pyautogui.keyDown('tab')
+    pyautogui.keyUp('tab')
+    time.sleep(0.01)
+    pyautogui.keyUp('alt')
+    time.sleep(0.01)
 
 # Calculate coordinates of vector with magnitude and angle
 def calculate_coords(magnitude, angle): # angle in 0-360
