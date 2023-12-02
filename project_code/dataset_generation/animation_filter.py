@@ -23,8 +23,8 @@ def filter_animation(input_path, output_path, keyword):
 
 
 if __name__ == '__main__':
-    input_path = r'D:\FXServer\cfx-server-data-master\animation_lists\animations_duration_without0.txt'
-    output_dir = r'D:\FXServer\cfx-server-data-master\animation_lists'
-    keyword = 'swimming'
+    input_path = r''
+    output_dir = r''
+    keyword = ''
     output_path = output_dir + '\\' + 'animations_' + keyword + '.txt'
     filter_animation(input_path, output_path, keyword)
