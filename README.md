@@ -1,16 +1,7 @@
 # GTAutoAct: An Automatic Datasets Generation Framework Based on Game Engine Redevelopment for Action Recognition
 ![overall](/resources/overall.png)
-
-Current datasets for action recognition tasks face limitations stemming from traditional collection and generation methods, including the constrained range of action classes, absence of multi-viewpoint recordings, limited diversity, poor video quality, and labor-intensive manually collection. 
-To address these challenges, we introduce GTAutoAct, a innovative dataset generation framework leveraging game engine technology to facilitate advancements in action recognition. 
+GTAutoAct is a innovative dataset generation framework leveraging game engine technology to facilitate advancements in action recognition. 
 GTAutoAct excels in automatically creating large-scale, well-annotated datasets with extensive action classes and superior video quality. 
-Our framework's distinctive contributions encompass: 
-(1) it innovatively transforms readily available coordinate-based 3D human motion into rotation-orientated representation with enhanced suitability in multiple viewpoints; 
-(2) it employs dynamic segmentation and interpolation of rotation sequences to create smooth and realistic animations of action; 
-(3) it offers extensively customizable animation scenes; 
-(4) it implements an autonomous video capture and processing pipeline, featuring a randomly navigating camera, with auto-trimming and labeling functionalities. 
-Experimental results underscore the framework's robustness and highlights its potential to significantly improve action recognition model training.
-
 
 ## Experiment Setup
 We suggest utilizing MMAction, an open-source toolbox designed for video understanding, which is based on the PyTorch framework.
