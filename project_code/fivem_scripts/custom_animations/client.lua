@@ -1,6 +1,6 @@
 RegisterCommand('p', function()
-    local dictName = 'export@sta006' -- .ycd file
-    local animName = 'sta006' -- .onim file
+    local dictName = 'export@' -- .ycd file
+    local animName = '' -- .onim file
   
     -- Request animation dictionary.
     RequestAnimDict(dictName)
