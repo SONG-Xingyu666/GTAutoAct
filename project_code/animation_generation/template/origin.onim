@@ -1,0 +1,553 @@
+Version 8 2
+{
+	Flags FLAG_0 FLAG_4 FLAG_5 FLAG_6 FLAG_7 FLAG_8
+	Frames 101
+	SequenceFrameLimit 111
+	Duration 3.36667
+	_f10 0
+	ExtraFlags
+	Sequences 101
+	MaterialID -1
+	Animation
+	{
+		BonePosition Float3 1356
+		{
+			FramesData SingleChannel Static
+			{
+				0.0713078 0.04165 -0.003406
+			}
+		}
+		BonePosition Float3 2108
+		{
+			FramesData SingleChannel Static
+			{
+				0.161524 0.0 0.0
+			}
+		}
+		BonePosition Float3 2992
+		{
+			FramesData SingleChannel Static
+			{
+				0.275 0.0 0.0
+			}
+		}
+		BonePosition Float3 4089
+		{
+			FramesData SingleChannel Static
+			{
+				0.056322 0.0 0.0
+			}
+		}
+		BonePosition Float3 4090
+		{
+			FramesData SingleChannel Static
+			{
+				0.035984 0.0 1.8e-07
+			}
+		}
+		BonePosition Float3 4137
+		{
+			FramesData SingleChannel Static
+			{
+				0.044589 0.0 0.0
+			}
+		}
+		BonePosition Float3 4138
+		{
+			FramesData SingleChannel Static
+			{
+				0.030654 -3e-07 0.0
+			}
+		}
+		BonePosition Float3 4153
+		{
+			FramesData SingleChannel Static
+			{
+				0.038221 0.0 0.0
+			}
+		}
+		BonePosition Float3 4154
+		{
+			FramesData SingleChannel Static
+			{
+				0.022898 0.0 0.0
+			}
+		}
+		BonePosition Float3 4170
+		{
+			FramesData SingleChannel Static
+			{
+				0.024108 1.2e-07 0.0
+			}
+		}
+		BonePosition Float3 4185
+		{
+			FramesData SingleChannel Static
+			{
+				0.051797 -1.01e-06 0.0
+			}
+		}
+		BonePosition Float3 4186
+		{
+			FramesData SingleChannel Static
+			{
+				0.032839 1.01e-06 0.0
+			}
+		}
+		BonePosition Float3 6286
+		{
+			FramesData SingleChannel Static
+			{
+				0.0544349 0.0 0.0
+			}
+		}
+		BonePosition Float3 10706
+		{
+			FramesData SingleChannel Static
+			{
+				-0.0218301 0.0421736 -0.0319192
+			}
+		}
+		BonePosition Float3 11174
+		{
+			FramesData SingleChannel Static
+			{
+				-0.00597113 0.079036 -0.020671
+			}
+		}
+		BonePosition Float3 14201
+		{
+			FramesData SingleChannel Static
+			{
+				0.41297 0.0 0.0
+			}
+		}
+		BonePosition Float3 16335
+		{
+			FramesData SingleChannel Static
+			{
+				0.4 0.0 0.0
+			}
+		}
+		BonePosition Float3 17188
+		{
+			FramesData SingleChannel Static
+			{
+				0.0413621 0.0 -0.00212228
+			}
+		}
+		BonePosition Float3 17719
+		{
+			FramesData SingleChannel Static
+			{
+				0.00711614 -0.00837 -8.4e-05
+			}
+		}
+		BonePosition Float3 19336
+		{
+			FramesData SingleChannel Static
+			{
+				0.056088 0.0976351 -0.017385
+			}
+		}
+		BonePosition Float3 20178
+		{
+			FramesData SingleChannel Static
+			{
+				0.00932479 0.064833 -1e-06
+			}
+		}
+		BonePosition Float3 20279
+		{
+			FramesData SingleChannel Static
+			{
+				0.00712603 0.00837 -8.2e-05
+			}
+		}
+		BonePosition Float3 20623
+		{
+			FramesData SingleChannel Static
+			{
+				0.043767 0.0 -0.00204879
+			}
+		}
+		BonePosition Float3 20781
+		{
+			FramesData SingleChannel Static
+			{
+				0.161524 -1.2e-07 0.0
+			}
+		}
+		BonePosition Float3 21550
+		{
+			FramesData SingleChannel Static
+			{
+				0.0560909 0.097636 0.017378
+			}
+		}
+		BonePosition Float3 22711
+		{
+			FramesData SingleChannel Static
+			{
+				0.275 0.0 0.0
+			}
+		}
+		BonePosition Float3 24806
+		{
+			FramesData SingleChannel Static
+			{
+				0.101686 -0.06407 0.0
+			}
+		}
+		BonePosition Float3 24818
+		{
+			FramesData SingleChannel Static
+			{
+				0.112895 0.0 0.0
+			}
+		}
+		BonePosition Float3 25260
+		{
+			FramesData SingleChannel Static
+			{
+				0.0664369 0.078839 0.031128
+			}
+		}
+		BonePosition Float3 26610
+		{
+			FramesData SingleChannel Static
+			{
+				0.0258579 0.022765 0.00061095
+			}
+		}
+		BonePosition Float3 26611
+		{
+			FramesData SingleChannel Static
+			{
+				0.106708 0.029155 -0.021098
+			}
+		}
+		BonePosition Float3 26612
+		{
+			FramesData SingleChannel Static
+			{
+				0.106343 0.005138 -0.0227361
+			}
+		}
+		BonePosition Float3 26613
+		{
+			FramesData SingleChannel Static
+			{
+				0.100143 -0.01751 -0.0133281
+			}
+		}
+		BonePosition Float3 26614
+		{
+			FramesData SingleChannel Static
+			{
+				0.093704 -0.033939 0.00159895
+			}
+		}
+		BonePosition Float3 27474
+		{
+			FramesData SingleChannel Static
+			{
+				0.0662718 0.08028 -0.029043
+			}
+		}
+		BonePosition Float3 28252
+		{
+			FramesData SingleChannel Static
+			{
+				0.274172 0.0 -1.97e-06
+			}
+		}
+		BonePosition Float3 28422
+		{
+			FramesData SingleChannel Static
+			{
+				0.0544349 0.0 0.0
+			}
+		}
+		BonePosition Float3 29868
+		{
+			FramesData SingleChannel Static
+			{
+				-0.00597221 0.079037 0.020664
+			}
+		}
+		BonePosition Float3 35502
+		{
+			FramesData SingleChannel Static
+			{
+				0.101686 -0.06407 0.0
+			}
+		}
+		BonePosition Float3 35731
+		{
+			FramesData SingleChannel Static
+			{
+				0.056537 0.0 0.0
+			}
+		}
+		BonePosition Float3 36029
+		{
+			FramesData SingleChannel Static
+			{
+				0.054434 0.0 0.0
+			}
+		}
+		BonePosition Float3 36864
+		{
+			FramesData SingleChannel Static
+			{
+				0.406518 0.0 0.0
+			}
+		}
+		BonePosition Float3 39317
+		{
+			FramesData SingleChannel Static
+			{
+				0.248499 0.0 0.0
+			}
+		}
+		BonePosition Float3 40269
+		{
+			FramesData SingleChannel Static
+			{
+				0.181896 0.0 -2.03e-06
+			}
+		}
+		BonePosition Float3 43536
+		{
+			FramesData SingleChannel Static
+			{
+				0.0668309 0.079199 -0.028855
+			}
+		}
+		BonePosition Float3 43810
+		{
+			FramesData SingleChannel Static
+			{
+				0.129598 0.0 0.0
+			}
+		}
+		BonePosition Float3 45509
+		{
+			FramesData SingleChannel Static
+			{
+				0.181895 0.0 2.98e-06
+			}
+		}
+		BonePosition Float3 45750
+		{
+			FramesData SingleChannel Static
+			{
+				0.066825 0.079821 0.03094
+			}
+		}
+		BonePosition Float3 46078
+		{
+			FramesData SingleChannel Static
+			{
+				0.4 0.0 0.0
+			}
+		}
+		BonePosition Float3 46240
+		{
+			FramesData SingleChannel Static
+			{
+				0.00363779 0.034007 -3e-06
+			}
+		}
+		BonePosition Float3 47495
+		{
+			FramesData SingleChannel Static
+			{
+				-0.010141 0.0 0.00973421
+			}
+		}
+		BonePosition Float3 52301
+		{
+			FramesData SingleChannel Static
+			{
+				0.41297 0.0 0.0
+			}
+		}
+		BonePosition Float3 57005
+		{
+			FramesData SingleChannel Static
+			{
+				0.259194 0.0 1.97e-06
+			}
+		}
+		BonePosition Float3 57717
+		{
+			FramesData SingleChannel Static
+			{
+				0.101686 -0.0640699 0.0
+			}
+		}
+		BonePosition Float3 58331
+		{
+			FramesData SingleChannel Static
+			{
+				0.0713118 0.04165 0.003403
+			}
+		}
+		BonePosition Float3 58866
+		{
+			FramesData SingleChannel Static
+			{
+				0.025859 0.022764 -0.00061199
+			}
+		}
+		BonePosition Float3 58867
+		{
+			FramesData SingleChannel Static
+			{
+				0.106709 0.029155 0.021097
+			}
+		}
+		BonePosition Float3 58868
+		{
+			FramesData SingleChannel Static
+			{
+				0.106344 0.00513801 0.022735
+			}
+		}
+		BonePosition Float3 58869
+		{
+			FramesData SingleChannel Static
+			{
+				0.100144 -0.01751 0.013328
+			}
+		}
+		BonePosition Float3 58870
+		{
+			FramesData SingleChannel Static
+			{
+				0.0937049 -0.033939 -0.0016
+			}
+		}
+		BonePosition Float3 60309
+		{
+			FramesData SingleChannel Static
+			{
+				0.054434 0.0 0.0
+			}
+		}
+		BonePosition Float3 61007
+		{
+			FramesData SingleChannel Static
+			{
+				0.129598 0.0 1.2e-07
+			}
+		}
+		BonePosition Float3 61163
+		{
+			FramesData SingleChannel Static
+			{
+				0.274173 0.0 9.8e-07
+			}
+		}
+		BonePosition Float3 61839
+		{
+			FramesData SingleChannel Static
+			{
+				0.054715 0.0 0.00038278
+			}
+		}
+		BonePosition Float3 63931
+		{
+			FramesData SingleChannel Static
+			{
+				0.406518 0.0 0.0
+			}
+		}
+		BonePosition Float3 64016
+		{
+			FramesData SingleChannel Static
+			{
+				0.056322 0.0 0.0
+			}
+		}
+		BonePosition Float3 64017
+		{
+			FramesData SingleChannel Static
+			{
+				0.035984 0.0 0.0
+			}
+		}
+		BonePosition Float3 64064
+		{
+			FramesData SingleChannel Static
+			{
+				0.0445891 1.8e-07 0.0
+			}
+		}
+		BonePosition Float3 64065
+		{
+			FramesData SingleChannel Static
+			{
+				0.030654 0.0 0.0
+			}
+		}
+		BonePosition Float3 64080
+		{
+			FramesData SingleChannel Static
+			{
+				0.038221 -9.8e-07 0.0
+			}
+		}
+		BonePosition Float3 64081
+		{
+			FramesData SingleChannel Static
+			{
+				0.022898 0.0 0.0
+			}
+		}
+		BonePosition Float3 64096
+		{
+			FramesData SingleChannel Static
+			{
+				0.04729 0.0 0.0
+			}
+		}
+		BonePosition Float3 64097
+		{
+			FramesData SingleChannel Static
+			{
+				0.024109 1.07e-06 0.0
+			}
+		}
+		BonePosition Float3 64112
+		{
+			FramesData SingleChannel Static
+			{
+				0.051797 0.0 0.0
+			}
+		}
+		BonePosition Float3 64113
+		{
+			FramesData SingleChannel Static
+			{
+				0.032839 0.0 0.0
+			}
+		}
+		BonePosition Float3 64729
+		{
+			FramesData SingleChannel Static
+			{
+				-0.0218301 0.042174 0.0319188
+			}
+		}
+		BonePosition Float3 65245
+		{
+			FramesData SingleChannel Static
+			{
+				0.101686 -0.0640699 0.0
+			}
+		}
+	}
+}
