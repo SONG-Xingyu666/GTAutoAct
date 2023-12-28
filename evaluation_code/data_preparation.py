@@ -227,3 +227,6 @@ def main():
     generate_split(args.input_path, args.output_path)
     generate_annotation(args.output_path)
     generate_videoList(args.output_path)
+    
+if __name__ == "__main__":
+    main()
