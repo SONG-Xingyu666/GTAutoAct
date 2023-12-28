@@ -223,13 +223,11 @@ def generate_videoList(dataset_path):
 
 
 def main():
-<<<<<<< HEAD
     args = parse_args()
     generate_split(args.input_path, args.output_path)
     generate_annotation(args.output_path)
     generate_videoList(args.output_path)
     
-=======
     # args = parse_args()
     # input_path = args.input_path
     # output_path = args.output_path
@@ -240,6 +238,4 @@ def main():
     generate_annotation(output_path)
     generate_videoList(output_path)
 
->>>>>>> 1da2245ac9b9311f65c87e72f96139c33663ad59
-if __name__ == "__main__":
-    main()
+main()
