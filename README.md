@@ -1,12 +1,12 @@
-# GTAutoAct: An Automatic Datasets Generation Framework Based on Game Engine Redevelopment for Action Recognition
+# 4A: An Animation-based Augmentation Approach for Action Recognition from Discontinuous Video
 ![overall](/resources/overall.png)
-GTAutoAct is a innovative dataset generation framework leveraging game engine technology to facilitate advancements in action recognition. 
-GTAutoAct excels in automatically creating large-scale, well-annotated datasets with extensive action classes and superior video quality. 
+4A is a innovative dataset generation framework leveraging game engine technology to facilitate advancements in action recognition. 
+4A excels in automatically creating large-scale, well-annotated datasets with extensive action classes and superior video quality. 
 
 ## Project Setup
 
 ### FiveM Server
-To setup GTAutoAct, you need a Rockstar account and setup a FiveM server.
+To setup 4A, you need a Rockstar account and setup a FiveM server.
 For tutorial please refer to [FiveM offical website](https://fivem.net/)
 
 ### 3ds MAX
@@ -22,7 +22,7 @@ To edit your map for presenting your animation, please download CodeWalker throu
 To mangage your animation library, please download OpenIV from [this website](https://openiv.com/).
 
 ## 3D Pose Estimation
-First, you need to obatin the human skeleton keypoint coordinates by 3D pose estimation. To adress this, we recommend [HRNet](https://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Deep_High-Resolution_Representation_Learning_for_Human_Pose_Estimation_CVPR_2019_paper.html) for 2D wholebody pose extimatiom, and [JointFormer](https://github.com/seblutz/JointFormer) for 2D-to-3D pose lifting. Also, we provide the inferencers for these two models, which can be found in `/inferencer`. Additionally, we recommend to use ["COCO-Wholebody"](https://github.com/jin-s13/COCO-WholeBody) for the 2D pose extimation training, and ["H3WB"](https://github.com/wholebody3d/wholebody3d) for the 3D lifting. GTAutoAct supports both COCO-Wholebldy and NTU-RGB+D layouts.
+First, you need to obatin the human skeleton keypoint coordinates by 3D pose estimation. To adress this, we recommend [HRNet](https://openaccess.thecvf.com/content_CVPR_2019/html/Sun_Deep_High-Resolution_Representation_Learning_for_Human_Pose_Estimation_CVPR_2019_paper.html) for 2D wholebody pose extimatiom, and [JointFormer](https://github.com/seblutz/JointFormer) for 2D-to-3D pose lifting. Also, we provide the inferencers for these two models, which can be found in `/inferencer`. Additionally, we recommend to use ["COCO-Wholebody"](https://github.com/jin-s13/COCO-WholeBody) for the 2D pose extimation training, and ["H3WB"](https://github.com/wholebody3d/wholebody3d) for the 3D lifting. 4A supports both COCO-Wholebldy and NTU-RGB+D layouts.
 
 ## Action Animation
 For Action Animation, please refer to ["animation_generation"](project_code/animation_generation/README.md) section.
