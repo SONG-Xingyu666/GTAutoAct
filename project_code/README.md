@@ -1,4 +1,4 @@
-# GTAutoAct Project Code
+# 4A Project Code
 
 ## Animation Generation
 
